@@ -34,7 +34,4 @@ Then open `EDA_Fruit_Vegetable_Freshness.ipynb` and run all cells.
 The CNN model implementation using the preprocessing pipeline established here is the subject of
 the following assignment.
 
-## Author
 
-Chris — BSc Information Technology (AI/ML track), Presidential Graduate School
-Supervisor: Prof. Bibek Khanal
